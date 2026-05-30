@@ -1,6 +1,5 @@
 # Sovereign-PINO: Killing the Sim-to-Real Delusion via Sub-10ms Hardware-Isolated Physics Kernels.
-
-> **لماذا تفشل روبوتات وادي السيليكون في الشارع الحقيقي؟ لأنها تخمن الاحتمالات، بينما الكون محكوم بالفيزياء. هذا النظام يدمج معادلات الحركة ديناميكياً داخل أنوية الـ CUDA لفرض سيادة قوانين الطبيعة بسرعة 120\text{ Hz}.**
+*
 
 ## 1. System Architecture & Zero-Copy Telemetry
 
